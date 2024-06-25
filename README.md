@@ -13,19 +13,7 @@ and designing web pages. </p>
  ## github activity
  <img src='https://github-readme-stats.vercel.app/api?username=Mommad-usfee&show_icons=true&theme=dark' />
 
-> JF SLNF
->>> hello to every one in developung sosicety
->> 
->>> I WILL BE HAPPU TO COAPRATE TO GETHER
->> 
->>> SOJ SLFL LSFLSN LMSMF
->>>
-> NEXT HEADER
 
-### TABLES 
-|front end| back end | bI |
-|--|--|--|
-|html|c#|sql server|
 
 
 
