@@ -5,12 +5,16 @@ Hi Cooders 🙋‍♂️ My name is **Mohammad Mahdi Yousefi**
 Front End Developer
 
 ---
+ <h3>👨‍💻 &nbsp; About Me</h3>
 
-Frontend Developer with over 3 Years of professional experience in web designing and UI development using latest web technologies. Highly skilled in wire-framing, designing, and developing creative digital experiences using professional HTML | CSS | JavaScript | jQuery | Bootstrap | ReactJS practices and WordPress. 👨‍💻 Turning Visuals into Working Prototypes 👨‍💻
+I am a Junior Front-End Developer seeking challenges. My interest lies in developing
+websites using the React JS framework❤️. <br>I am
+always eager to learn new skills and explore different opportunities to better myself. Currently, I am studying the final year of computer engineering . I have completed various programming courses, which has deepened my passion for coding
+and designing web pages👨‍💻
 
 - 🌍  I'm based in Arak (Iran)
-- 🖥️  Student of software ngineering in university
-- ✉️  You can contact me at [ce01010101it@@gmail.com](mailto:mohamadmahdiusfee@gmail.com)
+- 🖥️  Student of software egineering in university
+- ✉️  You can contact me at [mohamadmahdiusfee@gmail.com](mailto:mohamadmahdiusfee@gmail.com)
 - 🧠  I'm learning React js 
 - 🤝  I'm open to collaborating... 
 
