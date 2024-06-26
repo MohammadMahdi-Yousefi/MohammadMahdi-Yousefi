@@ -49,7 +49,7 @@ and designing web pages👨‍💻
 <h2>⚡️ &nbsp; Github Stats</h2>
 
 <a href="https://github.com/sabzlearn-ir">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mommad-usfee&show_icons=true&theme=radical" height="245px" style="margin-right: 10px;" 
+  <img src="https://github-readme-stats.vercel.app/api?username=Mommad-usfee&show_icons=true&theme=radical" height="245px" width='550px' 
  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mommad-usfee" />
  
