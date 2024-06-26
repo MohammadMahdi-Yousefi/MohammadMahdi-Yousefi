@@ -51,7 +51,7 @@ and designing web pages👨‍💻
 <a href="https://github.com/sabzlearn-ir">
   <img src="https://github-readme-stats.vercel.app/api?username=Mommad-usfee&show_icons=true&theme=radical" height="245px" width='550px' 
  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mommad-usfee" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mommad-usfee" width='270px' />
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mommad-usfee&hide_progress=true)
 </a>
