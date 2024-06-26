@@ -38,9 +38,9 @@ and designing web pages👨‍💻
 ## Socials
 
 <p align="left">
-    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/instagram.svg" width="32" height="32" /></a>
-    <a href="https://github.com/Mommad-usfee" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/github.svg" width="32" height="32" /></a>
-    <a href="https://www.linkedin.com/in/mohammad-mahdi-yousefi-b06b35231/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/linkedin.svg" width="32" height="32" /></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/instagram.svg" width="36" height="36" /></a>
+    <a href="https://github.com/Mommad-usfee" target="_blank" rel="noreferrer"><img src="https://github.com/Mommad-usfee/Mommad-usfee/blob/main/icons8-github-36.png?raw=true" width="36" height="36" /></a>
+    <a href="https://www.linkedin.com/in/mohammad-mahdi-yousefi-b06b35231/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/linkedin.svg" width="36" height="36" /></a>
     <a href="https://t.me/Mommadyousefi" target="_blank" rel="noreferrer"><img src="https://github.com/Mommad-usfee/Mommad-usfee/blob/main/icons8-telegram-36.png?raw=true" width="36" height="36" /></a>
 </p>
 
